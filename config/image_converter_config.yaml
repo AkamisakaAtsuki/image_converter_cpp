@@ -1,0 +1,3 @@
+topics:
+  input_topic: "raw_image"
+  output_topic: "mono_image"
